@@ -1,0 +1,17 @@
+{
+	"name": "theme-solarized-noxet",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized Noxet",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-noxet-color-theme.json"
+			}
+		]
+	}
+}
